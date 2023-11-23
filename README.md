@@ -21,7 +21,7 @@ by analyzing historical data.
 Used Google Analytics to gather historical customer data on the company site, analysed that with python3 with the matplotlib library.
 
 <img width="425" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/49d70929-77b1-4e8b-b755-50bc7293dbdd">
-
+<img width="412" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/ad45249d-6450-4bc8-aa84-87b0ce8ca383">
 
 Observations: Above results show images of the gender-based analysis. Looks like females spend way too much time on the site but don't contribute much to the revenue.
 
