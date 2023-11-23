@@ -14,7 +14,7 @@ by analyzing historical data.
 - [Data Analysis Results](#data)
 - [Conclusion](#conclusion)
 
-## Prerequisites
+## Software
 1) Google Analytics
 2) VSC Code
 3) python3
