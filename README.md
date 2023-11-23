@@ -20,8 +20,8 @@ by analyzing historical data.
 ## Data Analysis Results
 Used Google Analytics to gather historical customer data on the company site, analysed that with python3 with the matplotlib library.
 
-<img width="411" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/00c7eecb-2e2b-4e5d-a848-131ca950c6d3">
-<img width="424" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/1ad05cea-ecb3-42a9-a43b-2263c192e0ca">
+<img width="425" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/2ec83f9b-bedb-463a-a1a7-79aaf488edf0">
+<img width="412" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/f541080e-95bb-4557-bfcf-d197c1efa9a5">
 
 Observations: Above results show images of the gender-based analysis. Looks like females spend way too much time on the site but don't contribute much to the revenue.
 
