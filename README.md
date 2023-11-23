@@ -1,5 +1,7 @@
 # Company and Position
 Worked as a **Marketing Analytics Intern** at **Sesto Synergy**, a jewelry company based out of Rochester NY, United States.
+<img width="228" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/023acb60-91d9-4eaf-a9d3-4f02c89f7f9e">
+
 
 # Project
 **Campaign Optimization:**
@@ -8,7 +10,7 @@ by analyzing historical data.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [Data Analysis Results](#data_analysis_results)
+- [Data Analysis Results](#data)
 - [Conclusion](#conclusion)
 - [Acknowledgments](#acknowledgments)
 
