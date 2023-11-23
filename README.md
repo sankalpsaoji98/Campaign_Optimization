@@ -28,12 +28,12 @@ Observations: Above results show images of the gender-based analysis. Looks like
 <img width="411" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/b29b6305-38c5-4a5b-8888-9724c97ddd6d">
 <img width="424" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/c5b12d54-34c1-4221-ba1f-43672a0a4068">
 
-Observations: Above results show images of the age-based analysis. Interesting to see that the age group 18-24 does not contribute as much revenue as other age groups but people from that age group spend a lot of time on the site browsing and surfing.
+Observations: Above results show images of the age-based analysis. Interesting to see that the age group 18-24 does not contribute as much revenue as other age groups but people from that age group spends a lot of time on the site browsing and surfing.
 
 <img width="387" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/5da0fd5a-18f5-407a-a775-4a06747448b1">
 <img width="399" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/d0f50170-eb3a-4ab7-9c97-5fcddf1a732d">
 
-Observations: Above results show images of the device-based analysis. Revenue is contributed mostly through mobile phone devices but not so much through desktop devices.
+Observations: Above results show images of the device-based analysis. Revenue is contributed mostly through mobile phone devices but not so much through desktop devices. It's interesting to see an opposite trend on the duration metric.
 
 ## Conclusion
 The whole analysis helped us filter out demographic segments of the user base who actually contribute to revenue over the months long time-frame we analysed. This helped us focus more on the advertisements campaigns and save revenue by removing advertisements on low contributing segments.
