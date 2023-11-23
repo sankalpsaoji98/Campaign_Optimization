@@ -10,7 +10,7 @@ Goal was to increase the conversion rate of the 'test rings' page on the company
 by analyzing historical data.
 
 ## Table of Contents
-- [Prerequisites](#prerequisites)
+- [Software](#software)
 - [Data Analysis Results](#data)
 - [Conclusion](#conclusion)
 
