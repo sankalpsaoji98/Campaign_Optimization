@@ -8,7 +8,7 @@ by analyzing historical data.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [Data Analysis](#data_analysis)
+- [Data Analysis Results](#data_analysis_results)
 - [Conclusion](#conclusion)
 - [Acknowledgments](#acknowledgments)
 
