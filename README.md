@@ -40,3 +40,6 @@ Observations: Above results show images of the device-based analysis. Revenue is
 ## Conclusion
 The whole analysis helped us filter out demographic segments of the user base who actually contribute to revenue over the months long time-frame we analysed. This helped us focus more on the advertisements campaigns and save revenue by removing advertisements on low contributing segments.
 
+
+## Acknowledgements
+The work was done for Sesto Synergy and is the property of the company.
