@@ -11,7 +11,7 @@ by analyzing historical data.
 
 ## Table of Contents
 - [Software](#software)
-- [Data Analysis Results](#data)
+- [Results](#results)
 - [Conclusion](#conclusion)
 
 ## Software
@@ -19,7 +19,7 @@ by analyzing historical data.
 2) VSC Code
 3) python3
 
-## Data Analysis Results
+## Results
 Used Google Analytics to gather historical customer data on the company site, analysed that with python3 with the matplotlib library.
 
 <img width="412" alt="image" src="https://github.com/sankalpsaoji98/Campaign_Optimization/assets/26198596/ad45249d-6450-4bc8-aa84-87b0ce8ca383">
