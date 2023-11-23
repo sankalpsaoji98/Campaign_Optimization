@@ -1,8 +1,8 @@
 # Company and Position
-Worked as a Marketing Analytics Intern at Sesto Synergy, a jewelry company based out of Rochester NY, United States.
+Worked as a **Marketing Analytics Intern** at **Sesto Synergy**, a jewelry company based out of Rochester NY, United States.
 
 # Project
-Campaign Optimization:
+**Campaign Optimization:**
 Goal was to increase the conversion rate of the 'test rings' page on the company site - 'https://sestosynergy.com/products/test-ring' and saving money on campaign
 by analyzing historical data 
 
