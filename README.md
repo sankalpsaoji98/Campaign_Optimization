@@ -13,6 +13,7 @@ by analyzing historical data.
 - [Software](#software)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Acknowledgements](#acknowledgements)
 
 ## Software
 1) Google Analytics
